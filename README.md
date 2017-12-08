@@ -1,5 +1,8 @@
 # Free Processwire Template
 
+Free Processwire Template - built for a web development agency - now open sourced.
+
+
 # Demo
 
 Online at web archive (some images missing but working): https://web.archive.org/web/20171028072758/https://www.memelpower.com/
