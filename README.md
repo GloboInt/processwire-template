@@ -28,6 +28,6 @@ The logos used are also copyright protected.
 If you like what you received, you can show your appreciation by a donation: https://www.paypal.me/q2apro
 
 
-# Code License 
+# Template License 
 
 The source code of the template is free and open source. Do whatever you like with it. 
