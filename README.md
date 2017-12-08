@@ -14,8 +14,9 @@ See also folder `demos/screenshots`.
 
 1. Copy all files to your webserver.
 2. Create a database and import the file `database/db_import.sql`
-3. Go to `yoursite.com/wire/` and login. 
-4. Login: `admin` and Password: `herewegocheckitout22`
+3. Edit the file `wire/config.php` and enter your database credentials.
+4. Go to `yoursite.com/wire/` and login. 
+5. Login: `admin` and Password: `herewegocheckitout22`
 
 The template you find in `site/templates`
 
