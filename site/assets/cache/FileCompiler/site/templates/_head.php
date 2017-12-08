@@ -48,8 +48,8 @@
             <img src="/img/mp-logo.png" alt="Memelpower Logo">
             <img src="/img/mp-logo-white.png" alt="Memelpower Logo">
 		</a>
-		<a class="nav-item" href="tel:+37068291454">
-			<span class="icon icon-phone"></span> <span class="text">+370 682 91454</span>
+		<a class="nav-item" href="tel:+370123123">
+			<span class="icon icon-phone"></span> <span class="text">+370 123123</span>
 		</a>
 		<a class="nav-item" href="mailto:hello@memelpower.com"><span class="icon icon-mail"></span> <span class="text">hello@memelpower.com</span></a>
     </div>

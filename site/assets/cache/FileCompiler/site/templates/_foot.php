@@ -76,11 +76,11 @@ if($page->name!='contact')
                         </div>
                         <div class="media-content">
                             <p>
-                                <a href="tel:+37068291454">LT: +370 68291454</a>
+                                <a href="tel:+370123123">LT: +370 123123</a>
                                 <br>
-                                <a href="tel:+4915753259437">DE: +49 15753259437</a>
+                                <a href="tel:+4912345678">DE: +49 12345678</a>
                             </p>
-                            <p><a href="tel:+37068291454" class="button is-small is-outlined"><span class="icon-phone"></span> <?php echo \ProcessWire\__('Call Us'); ?></a></p>
+                            <p><a href="tel:+370123123" class="button is-small is-outlined"><span class="icon-phone"></span> <?php echo \ProcessWire\__('Call Us'); ?></a></p>
                         </div>
                     </div>
                     

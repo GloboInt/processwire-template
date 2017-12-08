@@ -469,11 +469,11 @@ function mp_render_breadcrumbs($page)
 function mp_get_phone_tel($language, $aslabel=false)
 {	
 
-	$phone_tel = '+37068291454';
-	$phone_label = '+370 68291454';
+	$phone_tel = '+370123123';
+	$phone_label = '+370 123123';
 	return $aslabel ? $phone_label : $phone_tel;
 	
-	// DE+EN site get phone number of Kai Noack, LT gets official Memelpower phone number (separate phone)
+	// DE+EN sites could get other phone numbers
 	/*
 	$phone_tel = '+37068291454';
 	$phone_label = '+370 682 91454';
