@@ -19,7 +19,7 @@ The template you find in `site/templates`
 
 # IMPORTANT
 
-Copyright of Images by Kai Noack. If you use the template you *MUST replace or remove all images* of people and organisations. 
+Copyright of Images by Kai Noack. If you use the template you **MUST replace or remove all images** of people and organisations. 
 The logos used are also copyright protected. 
 
 
