@@ -17,10 +17,15 @@ See also folder `demos/screenshots`.
 The template you find in `site/templates`
 
 
-# IMPORTANT:
+# IMPORTANT
 
 Copyright of Images by Kai Noack. If you use the template you *MUST replace or remove all images* of people and organisations. 
 The logos used are also copyright protected. 
+
+
+# Donate
+
+If you like what you received, you can show your appreciation by a donation: https://www.paypal.me/q2apro
 
 
 # Code License 
