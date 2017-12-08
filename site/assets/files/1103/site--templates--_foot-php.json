@@ -1,0 +1,39 @@
+{
+    "file": "site\/templates\/_foot.php",
+    "textdomain": "site--templates--_foot-php",
+    "translations": {
+        "5db90bd0e89dc0bbfb8fcb6664515be2": {
+            "text": "Mes esame nariai"
+        },
+        "89068cf98c8fc35e58a07c3467498257": {
+            "text": "Sukurkite savo internetin\u0119 s\u0117km\u0119"
+        },
+        "38c731cd1548211c7bb3fd19d7bf1228": {
+            "text": "Pakalb\u0117kime"
+        },
+        "4911d89d74e789a486c97749994f796d": {
+            "text": "4 auk\u0161tas"
+        },
+        "d9051e0b77f8bb5521389618e70e2ada": {
+            "text": "Lietuva"
+        },
+        "445432e5dc430657ecaaa3cdb4a99743": {
+            "text": "Skambinti"
+        },
+        "a2d190e9ecb0dfad3b056a8ca713ff4d": {
+            "text": "Para\u0161ykite"
+        },
+        "40b49c0d8b892ba1b9353cc727eb1633": {
+            "text": "Parsisi\u0173sti duomenis"
+        },
+        "e325fdcdbac6d1734032ba1eb019f56f": {
+            "text": "Bang\u0173 g."
+        },
+        "f009ac6cf96956b320e02e56fb494d09": {
+            "text": "Klaip\u0117da"
+        },
+        "e8a404f8531e6aed6154e31ebb63432a": {
+            "text": "Rodyti \u017eem\u0117lapyje"
+        }
+    }
+}

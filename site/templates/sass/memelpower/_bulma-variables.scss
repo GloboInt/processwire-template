@@ -1,0 +1,37 @@
+
+
+$text:            #666;
+$grey:            #888;
+$grey-lighter:    #e5e5e5;
+
+$orange:          #f8841c;
+$red:             $orange;
+
+$primary:         $orange;
+$danger:          $orange;
+
+$link: $blue;
+
+
+
+
+$body-background: $white;
+$background: $white;
+$border: $grey-lighter;
+
+$column-gap: 30px;
+$nav-height: 70px;
+
+//$size-3: 20px;
+$size-5: 20px;
+
+$weight-title-normal: 600;
+$weight-title-bold: 600;
+
+
+
+// 4. Lists and maps
+
+$colors: (white: ($white, $black), black: ($black, $white), light: ($light, $light-invert), dark: ($dark, $dark-invert), primary: ($primary, $primary-invert), info: ($info, $info-invert), success: ($success, $success-invert), warning: ($warning, $warning-invert), danger: ($danger, $danger-invert));
+
+$sizes: $size-1 $size-2 $size-3 $size-4 $size-5 $size-6;

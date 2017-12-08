@@ -1,0 +1,24 @@
+{
+    "file": "site\/templates\/_func.php",
+    "textdomain": "site--templates--_func-php",
+    "translations": {
+        "f4b67c735ca7ce8fe886be1e47071d72": {
+            "text": "Projekt"
+        },
+        "a15220cac4bb3ba542b5091eb6e2b81b": {
+            "text": "Projekt anschauen"
+        },
+        "b9c5f1f0eb3eba6d540b01445b9e5702": {
+            "text": "Blick ins Projekt"
+        },
+        "9e727fdd3aec8274f46685441900280d": {
+            "text": "Projekt"
+        },
+        "716f3cb27c271759e1fb0d39972706e3": {
+            "text": "Anschauen"
+        },
+        "256f82705e856483828c86c5469a2041": {
+            "text": "Projekt anschauen"
+        }
+    }
+}
